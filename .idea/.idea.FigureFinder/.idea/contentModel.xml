@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\4d129a72" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_FigureFinder.1002348974.00" t="ExcludeRecursive" />
+    <e p="F:\FigureFinder" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ErrorPanel.cs" t="Include" />
+        <e p="FigureQuestButton.cs" t="Include" />
+        <e p="QuestManager.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Canvas" t="Include">
+            <e p="CanvasDesignVariant.cs" t="Include" />
+            <e p="CanvasSettings.cs" t="Include" />
+          </e>
+          <e p="Game" t="Include">
+            <e p="AvailableColors.cs" t="Include" />
+            <e p="ColorManager.cs" t="Include" />
+            <e p="Figures" t="Include">
+              <e p="FigureFactory.cs" t="Include" />
+              <e p="FigureType.cs" t="Include" />
+              <e p="GenericFigure.cs" t="Include" />
+              <e p="IFigure.cs" t="Include" />
+            </e>
+            <e p="FunctionTimer" t="Include">
+              <e p="FunctionTimer.cs" t="Include" />
+            </e>
+            <e p="GameController.cs" t="Include" />
+            <e p="GameModel.cs" t="Include" />
+            <e p="GameView.cs" t="Include" />
+            <e p="Questions" t="Include">
+              <e p="IQuest.cs" t="Include" />
+            </e>
+            <e p="QuestionsType.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StartButton.cs" t="Include" />
+      </e>
+      <e p="FigureFinder.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
